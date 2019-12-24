@@ -1,0 +1,7 @@
+C:\Users\Canidoo\Desktop\programming_stuff\Color\Color\bin\Debug\Color.exe.config
+C:\Users\Canidoo\Desktop\programming_stuff\Color\Color\bin\Debug\Color.exe
+C:\Users\Canidoo\Desktop\programming_stuff\Color\Color\bin\Debug\Color.pdb
+C:\Users\Canidoo\Desktop\programming_stuff\Color\Color\obj\Debug\Color.csproj.CoreCompileInputs.cache
+C:\Users\Canidoo\Desktop\programming_stuff\Color\Color\obj\Debug\Color.exe
+C:\Users\Canidoo\Desktop\programming_stuff\Color\Color\obj\Debug\Color.pdb
+C:\Users\Canidoo\Desktop\programming_stuff\Color\Color\obj\Debug\Color.csprojAssemblyReference.cache
